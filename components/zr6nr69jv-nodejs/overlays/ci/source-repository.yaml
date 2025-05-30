@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: zr6nr69jv-nodejs-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/zr6nr69jv-nodejs
